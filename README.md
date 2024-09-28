@@ -10,7 +10,7 @@
 
 <p>
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> 
+    <img src="https://www.flaticon.com/free-icon/typescript_5968381" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
 
