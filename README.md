@@ -17,10 +17,16 @@
 <h3 align="left">Tools:</h3>
 <p>
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLiZmMOa7nJKl15YVdWyMrEY19RETEDe8mA&s" alt="bun" width="40" height="40"/> 
-    <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="mongodb" width="40" height="40"/> 
-    <img src="https://w7.pngwing.com/pngs/832/386/png-transparent-intellij-webstorm-macos-bigsur-icon.png" alt="webstorm" width="40" height="40"/> 
-    <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" alt="docker" width="40" height="40"/> 
+    <img src="https://bun.sh/logo.png" alt="bun" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="webstorm" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://pbs.twimg.com/profile_images/1499225311028582400/dW8i9kRR_400x400.png" alt="docker" width="40" height="40"/> 
+    <img src="" alt="docker" width="40" height="40"/> 
+    
   </a>
 </p>
 
