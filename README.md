@@ -10,7 +10,7 @@
 
 <p>
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://www.flaticon.com/free-icon/typescript_5968381" alt="typescript" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
 
