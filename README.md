@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Theo</h1>
-<h3 align="center">I am Theo and I have been programming websites with the programming languages Javascript and sometimes even Go. I work on my own Data-Analytic Tool called VisuaLens</h3>
+<h3 align="center">I make crappy Websites and stupid libaries. Please leave a star on VisuaLens</h3>
 
 
 - I am a web developer (Next.JS/React, Html, Css, TypeScript, Bun)
