@@ -30,7 +30,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=the_0hdDev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=the0hdDev)](https://git.io/streak-stats)
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=the0hdDev&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues&bg_color=00000000">
