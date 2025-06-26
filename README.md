@@ -5,8 +5,4 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=the0hdDev&theme=algolia&hide_border=true&background=FFFFFF00&count_private=true">
   <br>
   <br>
-</p>
-
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=the0hdDev&theme=react-dark" alt="the0hdDev" /> </p>
-
 
