@@ -4,9 +4,9 @@
     Includes icons for tech stack, general skills, project highlights, and live WakaTime stats.
 -->
 
-<h1 align="center">Hi there, I'm <b>the0hdDev</b> 👋</h1>
+<h1 align="center">Hi there, I'm <b>Theo</b> 👋</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;C%2B%2B+Enthusiast;Fullstack+Engineer;Homelab+Tinkerer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=WWelcome+to+my+GitHub+profile!;C%2B%2B+Enthusiast;Fullstack+Engineer;Homelab+Tinkerer" alt="Typing SVG" />
 </p>
 
 ---
