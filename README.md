@@ -37,17 +37,17 @@
 
 <p align="center">
   <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" style="background:white; border-radius:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/40860729?s=200&v=4" alt="Portainer" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40"/>
   <!-- Add more as desired -->
@@ -57,15 +57,14 @@
 
 ## 🏗️ **Projects**
 
-- **abeams-engine**: C++ physics/simulation engine, highly modular
+- **abeams-engine**: C++ economics simulation engine, highly modular
 - **abeams-frontend**: TypeScript, Next.js, React—modern developer UI
-- **abeams-qt**: C++/Qt desktop tooling (deprecated but cool!)
 - **Homelab**: Docker, Portainer, automation, self-hosted services
-- **VisuaLens**: Analytics tool powered by Bun + TypeScript
+- **Generic Network**: Minecraft Network
 
 ---
 
-## 📊 **WakaTime Coding Stats**
+## 📊 **Coding Stats**
 
   <img src="https://wakatime.com/share/@eb9893e1-ec3a-4a52-94f4-337993c32696/9017462b-ab17-4680-a56e-b0a81f5ce6bc.svg"></img>
 
